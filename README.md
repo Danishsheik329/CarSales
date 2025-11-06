@@ -19,10 +19,10 @@ It contains 23,916 rows and 16 columns, providing detailed information about car
 
 
 ### 5.	Features / Highlights
-•	Business Problem
+•	Business Problem<br>
 The company lacks a centralized system to monitor Year-to-Date (YTD) and Month-to-Date (MTD) sales performance. As a result, management cannot easily evaluate revenue trends, identify best-selling models, or compare performance with last year to plan effective marketing and production strategies.
 
-•	Goal of the Dashboard
+•	Goal of the Dashboard<br>
 The goal of this dashboard is to monitor Year-to-Date (YTD) and Month-to-Date (MTD) performance of sales, revenue, and total cars sold across different dimensions such as company, model, transmission type, and body style. This helps users analyze trends, compare performance, and make informed business decisions.
 
 •	Walkthrough of Key Visuals
