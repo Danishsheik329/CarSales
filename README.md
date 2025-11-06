@@ -1,5 +1,4 @@
-# Ski-dashboard
-## Recommended Structure and Order
+# Car Sales Analysis
 ### 1.	Project Title / Headline
 A concise, descriptive name for the dashboard.
 Example: 
