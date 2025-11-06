@@ -1,9 +1,7 @@
 # Car Sales Analysis
 ### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Example: 
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+Car Sales Analysis
+An interactive dashboard designed to analyze Year-To-Date (YTD) car sales across company, model, engine type, transmission, color, and body style—empowering business users with actionable insights into sales performance, revenue, and customer preferences.
 
 ### 2.	Short Description / Purpose
 1–2 sentences explaining what the dashboard does and why it exists.
