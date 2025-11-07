@@ -26,7 +26,7 @@ The company lacks a centralized system to monitor Year-to-Date (YTD) and Month-t
 The goal of this dashboard is to monitor Year-to-Date (YTD) and Month-to-Date (MTD) performance of sales, revenue, and total cars sold across different dimensions such as company, model, transmission type, and body style. This helps users analyze trends, compare performance, and make informed business decisions.
 
 •	Walkthrough of Key Visuals
--	Key KPIs (Top Left)
+-	Key KPIs<br>
 YTD Total Car Sales: $371M<br>
 YTD Avg Car Sales: $28.0K<br>
 YTD Total Car Sold: 13.3 <br>
@@ -34,25 +34,32 @@ YTD Total Car Sold: 13.3 <br>
 An interactive slicer allows users to filter all visuals by selected attributes such as company, model, transmission type, body style, and color—enabling focused analysis based on user preference.<br>
 -	YTD Weekly Sales Anaylsis (Line Chart)
 A line chart displays weekly car sales, showing which week recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time.
--	Slopes by Resort (Line Chart)
-Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
--	 Resorts by Skill Level (Dual Line Charts)
-Two line visuals side by side: one for resorts that cater to beginners, another for experts—allowing skill-level segmentation.
--	Elevation Stats (Grouped Bar Chart)
-Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
--	Lift Types by Resort (Stacked Bar Chart)
-Stacked bar chart showing:
-Gondola lifts
-Chair lifts
-Surface lifts
-Total lifts
-This helps users gauge resort infrastructure and capacity.
+-	YTD Total Price by Body Style (Donut Chart)<br>
+A donut chart displays which body style (such as SUV, Sedan, Hatchback, etc.) contributes the most to overall revenue. This helps identify which car body type generates higher sales value and is more preferred by customers.
+-	YTD Total Price By Color (Donut Chart)
+A donut chart displays which color (such as Red,Pale White and Black) contributes the most to overall revenue. This helps identify which car color generates higher sales value and is more preferred by customers.
+-	 Company Performance Analysis (Matrix)<br>
+A matrix visual compares each company’s car sales for the current year versus the previous year. It also displays key metrics such as YTD average car price, YTD average cars sold, and the percentage change in average cars sold. This helps identify which companies improved their sales performance, maintained stable growth, or experienced a decline compared to last year.
+-Cy Total Sales By Month (Stacked Column Chart)
+A Stacked Column chart displays weekly car sales, showing which Month recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time.
 
-•	Business Impact & Insights
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+
+Business Impact & Insights
+
+• Performance Tracking:
+The dashboard helps management monitor YTD and MTD sales, revenue, and car units sold in real time, enabling faster and data-driven decision-making.
+
+• Market Strategy Optimization:
+By comparing sales across companies, models, and body types, businesses can identify high-performing segments and underperforming areas to adjust marketing and pricing strategies.
+
+• Customer Preference Analysis:
+Insights from filters like color, transmission, and body style reveal customer preferences, helping dealerships optimize inventory and promotions based on demand.
+
+• Revenue Growth Opportunities:
+The matrix visual highlights top-performing companies and revenue trends, allowing management to focus on profitable brands and models.
+
+• Forecasting & Planning:
+Weekly and monthly sales patterns help in predicting future demand, planning stock levels, and preparing for seasonal variations in car sales.•ompetitiveness by region.
 
 ### 6.	Screenshots / Demos
 https://github.com/Danishsheik329/Mobile-Sales/blob/main/Screenshot%202025-11-06%20191142.png
