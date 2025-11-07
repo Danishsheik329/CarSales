@@ -27,21 +27,21 @@ The goal of this dashboard is to monitor Year-to-Date (YTD) and Month-to-Date (M
 
 •	Walkthrough of Key Visuals
 -	Key KPIs<br>
-YTD Total Car Sales: $371M<br>
-YTD Avg Car Sales: $28.0K<br>
+YTD Total Car Revenue: $371M<br>
+YTD Avg Car Revenue: $28.0K<br>
 YTD Total Car Sold: 13.3 <br>
 -	 Filter Panel<br>
 An interactive slicer allows users to filter all visuals by selected attributes such as company, model, transmission type, body style, and color—enabling focused analysis based on user preference.<br>
--	YTD Weekly Sales Anaylsis (Line Chart)
-A line chart displays weekly car sales, showing which week recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time.
--	YTD Total Price by Body Style (Donut Chart)<br>
-A donut chart displays which body style (such as SUV, Sedan, Hatchback, etc.) contributes the most to overall revenue. This helps identify which car body type generates higher sales value and is more preferred by customers.
--	YTD Total Price By Color (Donut Chart)
-A donut chart displays which color (such as Red,Pale White and Black) contributes the most to overall revenue. This helps identify which car color generates higher sales value and is more preferred by customers.
+-	CY Weekly Sales Anaylsis (Line Chart)
+A line chart displays weekly car sales, showing which week recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time.From the analysis, it can be observed that sales were lower in the initial weeks, followed by a steady increase in the middle and later weeks of the year. The highest number of cars were sold during the mid and end weeks, while the early weeks showed a dip—indicating an area that needs further focus and improvement.
+-	YTD Body Style By Revenue and Car sold(Donut Chart)<br>
+A donut chart displays which body style (such as SUV, Sedan, Hatchback, etc.) contributes the most to overall revenue. This helps identify which car body type generates higher sales value and is more preferred by customers.From the analysis, it is evident that SUVs recorded the highest sales both this year and last year, showing their consistent popularity among customers. However, there was a noticeable dip in Hatchback sales, with less than 15% revenue contribution, while all other body styles maintained above 15% revenue share.
+-	YTD Color By Revnue and Car Sold(Donut Chart)<br>
+A donut chart displays which color (such as Red,Pale White and Black) contributes the most to overall revenue. This helps identify which car color generates higher sales value and is more preferred by customers.From the analysis, it is observed that customers are strongly attracted to car colors, which impacts overall sales performance. Pale White and Black generated the highest revenue this year, while Red also performed well. However, further analysis is needed to understand why Red cars sold more units compared to the top revenue-generating colors.
 -	 Company Performance Analysis (Matrix)<br>
 A matrix visual compares each company’s car sales for the current year versus the previous year. It also displays key metrics such as YTD average car price, YTD average cars sold, and the percentage change in average cars sold. This helps identify which companies improved their sales performance, maintained stable growth, or experienced a decline compared to last year.
--Cy Total Sales By Month (Stacked Column Chart)
-A Stacked Column chart displays weekly car sales, showing which Month recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time.
+-Cy Revenue and Car Sold By Month (Stacked Column Chart)
+A Stacked Column chart displays weekly car sales, showing which Month recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time. As we can see, revenue was low in the initial months, but after April, there was a significant hike, even crossing the average revenue line. The chart also shows a dip at the beginning of the year and another rise toward the end, indicating seasonal variation or potential sales strategy changes. This trend suggests that further analysis is needed to understand why sales dropped early in the year. 
 
 
 Business Impact & Insights
