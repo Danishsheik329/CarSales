@@ -27,16 +27,13 @@ The goal of this dashboard is to monitor Year-to-Date (YTD) and Month-to-Date (M
 
 •	Walkthrough of Key Visuals
 -	Key KPIs (Top Left)
-Total number of resorts: 499
-Resorts with summer skiing: 29
-Resorts with night skiing: 204
-Child-friendly resorts: 495
-Countries covered: 38
-Continents represented: 5
--	Continent Filter Panel
-An interactive slicer lets users filter all visuals by selected continents, such as Europe or Asia.
--	Top Countries with Most Resorts (Bar Chart)
-Bar chart ranks countries like Austria, France, and the U.S. by number of ski resorts.
+YTD Total Car Sales: $371M<br>
+YTD Avg Car Sales: $28.0K<br>
+YTD Total Car Sold: 13.3 <br>
+-	 Filter Panel<br>
+An interactive slicer allows users to filter all visuals by selected attributes such as company, model, transmission type, body style, and color—enabling focused analysis based on user preference.<br>
+-	YTD Weekly Sales Anaylsis (Line Chart)
+A line chart displays weekly car sales, showing which week recorded the highest number of cars sold along with their total revenue. This helps identify peak sales periods, understand seasonal demand trends, and measure performance over time.
 -	Slopes by Resort (Line Chart)
 Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
 -	 Resorts by Skill Level (Dual Line Charts)
